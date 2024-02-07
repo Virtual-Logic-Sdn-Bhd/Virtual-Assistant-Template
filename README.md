@@ -7,3 +7,5 @@ Current state of the virtual assistant:
 
 - 7 Februrary 2024, 3.00pm
   - The virtual assistant will move to the target according to the sequence set in the Unity Editor.
+  - The speed can be changed in the inspector.
+  - The user can choose the appearance of the virtual assistant (can change the model).
