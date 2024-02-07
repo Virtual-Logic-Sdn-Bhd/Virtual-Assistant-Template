@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da44dfcb64c32345a555fb5754dd244, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  _Color: 0.48
+  _ExternalDirectories:
+  - ../../original/fullver/Assets/Settings
+  _Exclusions: []
+  _Direction: 0
+  _Trigger: 0
+  _LastExecuted: 638297483412029502
+  _SynchronizedPaths:
+  - Balanced_PipelineAsset.asset
+  - Balanced_PipelineAsset.asset.meta
+  - Balanced_PipelineAsset_ForwardRenderer.asset
+  - Balanced_PipelineAsset_ForwardRenderer.asset.meta
+  - High Fidelity_PipelineAsset.asset
+  - High Fidelity_PipelineAsset.asset.meta
+  - High Fidelity_PipelineAsset_ForwardRenderer.asset
+  - High Fidelity_PipelineAsset_ForwardRenderer.asset.meta
+  - PCVR_PipelineAsset.asset
+  - PCVR_PipelineAsset.asset.meta
+  - PCVR_PipelineAsset_ForwardRenderer.asset
+  - PCVR_PipelineAsset_ForwardRenderer.asset.meta
+  - Performant_PipelineAsset.asset
+  - Performant_PipelineAsset.asset.meta
+  - Performant_PipelineAsset_ForwardRenderer.asset
+  - Performant_PipelineAsset_ForwardRenderer.asset.meta
+  - Quest_PipelineAsset.asset
+  - Quest_PipelineAsset.asset.meta
+  - Quest_PipelineAsset_ForwardRenderer.asset
+  - Quest_PipelineAsset_ForwardRenderer.asset.meta
+  - SampleSceneProfile.asset
+  - SampleSceneProfile.asset.meta
+  - URP-Balanced.asset
+  - URP-Balanced.asset.meta
+  - URP-Balanced-Renderer.asset
+  - URP-Balanced-Renderer.asset.meta
+  - URP-HighFidelity.asset
+  - URP-HighFidelity.asset.meta
+  - URP-HighFidelity-Renderer.asset
+  - URP-HighFidelity-Renderer.asset.meta
+  - URP-Performant.asset
+  - URP-Performant.asset.meta
+  - URP-Performant-Renderer.asset
+  - URP-Performant-Renderer.asset.meta

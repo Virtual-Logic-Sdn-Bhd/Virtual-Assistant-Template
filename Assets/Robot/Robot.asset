@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da44dfcb64c32345a555fb5754dd244, type: 3}
+  m_Name: Robot
+  m_EditorClassIdentifier: 
+  _Color: 0.68
+  _ExternalDirectories:
+  - ../../original/fullver/Assets/Sci-Fi Ball Robot
+  _Exclusions: []
+  _Direction: 0
+  _Trigger: 0
+  _LastExecuted: 638297482831359791
+  _SynchronizedPaths:
+  - 1.1.0.Sci-Fi Ball Robot_Update.unitypackage
+  - 1.1.0.Sci-Fi Ball Robot_Update.unitypackage.meta
+  - Anim
+  - Anim.meta
+  - Anim/Anger.anim
+  - Anim/Anger.anim.meta
+  - Anim/BallRobot_Controller.controller
+  - Anim/BallRobot_Controller.controller.meta
+  - Anim/Facial
+  - Anim/Facial.meta
+  - Anim/Facial/Eye_Angry.anim
+  - Anim/Facial/Eye_Angry.anim.meta
+  - Anim/Facial/Eye_Angry_Glitch.anim
+  - Anim/Facial/Eye_Angry_Glitch.anim.meta
+  - Anim/Facial/Eye_Blink.anim
+  - Anim/Facial/Eye_Blink.anim.meta
+  - Anim/Facial/Eye_Blink_x2.anim
+  - Anim/Facial/Eye_Blink_x2.anim.meta
+  - Anim/Facial/Eye_Glitch.anim
+  - Anim/Facial/Eye_Glitch.anim.meta
+  - Anim/Facial/Eye_PowerUP.anim
+  - Anim/Facial/Eye_PowerUP.anim.meta
+  - Anim/Facial/Eye_Smile.anim
+  - Anim/Facial/Eye_Smile.anim.meta
+  - Anim/Facial/Eye_Smile_Glitch.anim
+  - Anim/Facial/Eye_Smile_Glitch.anim.meta
+  - Anim/FloatAir.anim
+  - Anim/FloatAir.anim.meta
+  - Anim/GoAhead.anim
+  - Anim/GoAhead.anim.meta
+  - Anim/GoAheadEnd.anim
+  - Anim/GoAheadEnd.anim.meta
+  - Anim/GoAheadLoop.anim
+  - Anim/GoAheadLoop.anim.meta
+  - Anim/Happy.anim
+  - Anim/Happy.anim.meta
+  - Anim/Start.anim
+  - Anim/Start.anim.meta
+  - Anim/TimeLine
+  - Anim/TimeLine.meta
+  - Anim/TimeLine/BallRobot_Facial_TimeLine.playable
+  - Anim/TimeLine/BallRobot_Facial_TimeLine.playable.meta
+  - Anim/TimeLine/BallRobot_Timeline.playable
+  - Anim/TimeLine/BallRobot_Timeline.playable.meta
+  - Material
+  - Material.meta
+  - Material/Background_bowl.mat
+  - Material/Background_bowl.mat.meta
+  - Material/BallRobot_body_blue.mat
+  - Material/BallRobot_body_blue.mat.meta
+  - Material/BallRobot_body_gold.mat
+  - Material/BallRobot_body_gold.mat.meta
+  - Material/BallRobot_body_red.mat
+  - Material/BallRobot_body_red.mat.meta
+  - Material/BallRobot_eye_blue.mat
+  - Material/BallRobot_eye_blue.mat.meta
+  - Material/BallRobot_eye_red.mat
+  - Material/BallRobot_eye_red.mat.meta
+  - Material/BallRobot_eye_yellow.mat
+  - Material/BallRobot_eye_yellow.mat.meta
+  - Material/BallRobot_glass_blue.mat
+  - Material/BallRobot_glass_blue.mat.meta
+  - Material/BallRobot_glass_red.mat
+  - Material/BallRobot_glass_red.mat.meta
+  - Material/BallRobot_glass_yellow.mat
+  - Material/BallRobot_glass_yellow.mat.meta
+  - Material/Flow_blue.mat
+  - Material/Flow_blue.mat.meta
+  - Material/Flow_red.mat
+  - Material/Flow_red.mat.meta
+  - Material/Flow_yellow.mat
+  - Material/Flow_yellow.mat.meta
+  - Mesh
+  - Mesh.meta
+  - Mesh/Background_bowl.fbx
+  - Mesh/Background_bowl.fbx.meta
+  - Mesh/Ball Robot_motion.fbx
+  - Mesh/Ball Robot_motion.fbx.meta
+  - Prefab
+  - Prefab.meta
+  - Prefab/Background_bowl.prefab
+  - Prefab/Background_bowl.prefab.meta
+  - Prefab/Ball Robot_Blue.prefab
+  - Prefab/Ball Robot_Blue.prefab.meta
+  - Prefab/Ball Robot_Gold.prefab
+  - Prefab/Ball Robot_Gold.prefab.meta
+  - Prefab/Ball Robot_Red.prefab
+  - Prefab/Ball Robot_Red.prefab.meta
+  - Scene
+  - Scene.meta
+  - Scene/Post processing Profile.asset
+  - Scene/Post processing Profile.asset.meta
+  - Scene/Sci-Fi Ball Robot_demo.unity
+  - Scene/Sci-Fi Ball Robot_demo.unity.meta
+  - Shader
+  - Shader.meta
+  - Shader/Animation_Image (Legacy).shader
+  - Shader/Animation_Image (Legacy).shader.meta
+  - Shader/BallRobot_eye_motion_description.png
+  - Shader/BallRobot_eye_motion_description.png.meta
+  - Shader/Flow (Legacy).shader
+  - Shader/Flow (Legacy).shader.meta
+  - Shader/Shader Description.pdf
+  - Shader/Shader Description.pdf.meta
+  - Texture
+  - Texture.meta
+  - Texture/BallRobot_AO.png
+  - Texture/BallRobot_AO.png.meta
+  - Texture/BallRobot_blue_basecolor.png
+  - Texture/BallRobot_blue_basecolor.png.meta
+  - Texture/BallRobot_blue_emission.png
+  - Texture/BallRobot_blue_emission.png.meta
+  - Texture/BallRobot_blue_outline_emission.png
+  - Texture/BallRobot_blue_outline_emission.png.meta
+  - Texture/BallRobot_blue_outline_emission-2.png
+  - Texture/BallRobot_blue_outline_emission-2.png.meta
+  - Texture/BallRobot_blue_specular.png
+  - Texture/BallRobot_blue_specular.png.meta
+  - Texture/BallRobot_eye_motion.png
+  - Texture/BallRobot_eye_motion.png.meta
+  - Texture/BallRobot_gold_albedo.png
+  - Texture/BallRobot_gold_albedo.png.meta
+  - Texture/BallRobot_gold_emission.png
+  - Texture/BallRobot_gold_emission.png.meta
+  - Texture/BallRobot_gold_outline_emission.png
+  - Texture/BallRobot_gold_outline_emission.png.meta
+  - Texture/BallRobot_gold_outline_emission-2.png
+  - Texture/BallRobot_gold_outline_emission-2.png.meta
+  - Texture/BallRobot_gold_specular.png
+  - Texture/BallRobot_gold_specular.png.meta
+  - Texture/BallRobot_gray_outline_emission.png
+  - Texture/BallRobot_gray_outline_emission.png.meta
+  - Texture/BallRobot_gray_outline_emission-2.png
+  - Texture/BallRobot_gray_outline_emission-2.png.meta
+  - Texture/BallRobot_N.png
+  - Texture/BallRobot_N.png.meta
+  - Texture/BallRobot_red_basecolor.png
+  - Texture/BallRobot_red_basecolor.png.meta
+  - Texture/BallRobot_red_emission.png
+  - Texture/BallRobot_red_emission.png.meta
+  - Texture/Circuit_FlowMask.png
+  - Texture/Circuit_FlowMask.png.meta
+  - Texture/ground_gradient.png
+  - Texture/ground_gradient.png.meta
+  - Texture/ground_gradient_matall.png
+  - Texture/ground_gradient_matall.png.meta
