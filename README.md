@@ -5,5 +5,5 @@ The virtual assistant should possess general function so it can be reused in dif
 
 Current state of the virtual assistant:
 
-> 7 Februrary 2024, 3.00pm
-  > The virtual assistant will move to the target according to the sequence set in the Unity Editor.
+- 7 Februrary 2024, 3.00pm
+  - The virtual assistant will move to the target according to the sequence set in the Unity Editor.
